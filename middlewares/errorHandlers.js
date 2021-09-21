@@ -28,6 +28,9 @@ module.exports = function (error, req, res, next) {
     } else if (error.name === "not found") {
         code = 404
         message = "Data not found"
+    } else if (error.name === "Invalid login") {
+        code = 401
+        message = "Email/Password is wrong"
     }
 
     res.status(code).json({ message });
