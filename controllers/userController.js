@@ -35,7 +35,6 @@ class UserController {
                 email: foundUser.email,
             });
             res.status(200).json({
-                id: foundUser.id,
                 username: foundUser.username,
                 email: foundUser.email,
                 access_token,
