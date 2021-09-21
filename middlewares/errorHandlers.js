@@ -20,8 +20,14 @@ module.exports = function (error, req, res, next) {
             message = "Username already exists"
         } else {
             message = errors;
-        }
+        } 
         code = 400;
+    } else if (error.name === "Unauthorized") {
+        code = 401
+        message = "Unauthorized"
+    } else if (error.name === "not found") {
+        code = 404
+        message = "Data not found"
     }
 
     res.status(code).json({ message });
