@@ -22,8 +22,13 @@ class ContentController {
         try {
             const charaData = await Character.findAll({
                 attributes: {
-                    exclude: ["createdAt", "updatedAt"]
-                }
+                    exclude: ["createdAt", "updatedAt",],
+                    include: ["Generation"],
+                    
+                },
+                order : [
+                    ["id", "ASC"]
+                ]
             })
             res.status(200).json(charaData)
         } catch (error) {
