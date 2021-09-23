@@ -5,7 +5,8 @@
         "fanbaseName": "Sora-tomo",
         "illustrator": "ordan",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/766395_704791_LtgiASHYk.webp",
-        "Generation": "Generation 0"
+        "Generation": "Generation 0",
+        "status" : "active"
     },
     {
         "name": "AZKi",
@@ -13,7 +14,8 @@
         "fanbaseName": "Pioneer",
         "illustrator": "kasokuSato",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/922356_129433_IfNr65KjunL.webp",
-        "Generation": "Generation 0"
+        "Generation": "Generation 0",
+        "status" : "active"
     },
     {
         "name": "Robocosan",
@@ -21,7 +23,8 @@
         "fanbaseName": "Robosa",
         "illustrator": "kuromaru9",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/133704_17353_v5HzB875SL.webp",
-        "Generation": "Generation 0"
+        "Generation": "Generation 0",
+        "status" : "active"
     },
     {
         "name": "Sakura Miko",
@@ -29,7 +32,8 @@
         "fanbaseName": "35p",
         "illustrator": "kuromaru9",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/539178_681604_QTCPZKKrf7h.webp",
-        "Generation": "Generation 0"
+        "Generation": "Generation 0",
+        "status" : "active"
     },
     {
         "name": "Shirakami Fubuki",
@@ -37,7 +41,8 @@
         "fanbaseName": "Sukon-bu",
         "illustrator": "Nagishiro Mito",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/215939_891350_h2mytN764H.webp",
-        "Generation": "1st Generation"
+        "Generation": "1st Generation",
+        "status" : "active"
     },
     {
         "name": "Natsuiro Matsuri",
@@ -45,7 +50,8 @@
         "fanbaseName": "Matsurisu",
         "illustrator": "Minamura Haruki",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/878672_482782_D-4tPQtj40.webp",
-        "Generation": "1st Generation"
+        "Generation": "1st Generation",
+        "status" : "active"
     },
     {
         "name": "Yozora Mel",
@@ -53,7 +59,8 @@
         "fanbaseName": "Kapu-min",
         "illustrator": "Ayami",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/385807_400141_aFeNXavku.webp",
-        "Generation": "1st Generation"
+        "Generation": "1st Generation",
+        "status" : "active"
     },
     {
         "name": "Akai Haato",
@@ -61,7 +68,8 @@
         "fanbaseName": "Haaton",
         "illustrator": "HaruYuki",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/970398_960056_OVrisvewgg.webp",
-        "Generation": "1st Generation"
+        "Generation": "1st Generation",
+        "status" : "active"
     },
     {
         "name": "Aki Rosenthal",
@@ -69,7 +77,8 @@
         "fanbaseName": "Squad Rose",
         "illustrator": "Azumi Akitake",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/754557_771352_oecHDcI6kE.webp",
-        "Generation": "1st Generation"
+        "Generation": "1st Generation",
+        "status" : "active"
     },
     {
         "name": "Minato Aqua",
@@ -77,7 +86,8 @@
         "fanbaseName": "Aqua Crew",
         "illustrator": "Gaou",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/309110_49678_8mQ6udYxWoO.webp",
-        "Generation": "2nd Generation"
+        "Generation": "2nd Generation",
+        "status" : "active"
     },
     {
         "name": "Yuzuki Choco",
@@ -85,7 +95,8 @@
         "fanbaseName": "Choco Mate",
         "illustrator": "Masuishi Kinoto",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/945730_248174_IoJaCLJiY.webp",
-        "Generation": "2nd Generation"
+        "Generation": "2nd Generation",
+        "status" : "active"
     },
     {
         "name": "Nakiri Ayame",
@@ -93,7 +104,8 @@
         "fanbaseName": "Nakiri-gumi",
         "illustrator": "NanaKagura",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/808112_469591_01Rchml6rs.webp",
-        "Generation": "2nd Generation"
+        "Generation": "2nd Generation",
+        "status" : "active"
     },
     {
         "name": "Murasaki Shion",
@@ -101,7 +113,8 @@
         "fanbaseName": "Shiokko",
         "illustrator": "Tam-U",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/39481_966765_QhUYtdy0U9.webp",
-        "Generation": "2nd Generation"
+        "Generation": "2nd Generation",
+        "status" : "active"
     },
     {
         "name": "Oozora Subaru",
@@ -109,7 +122,8 @@
         "fanbaseName": "Suba-tomo",
         "illustrator": "Shigureui",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/148699_403604_L8cDGNnA5W.webp",
-        "Generation": "2nd Generation"
+        "Generation": "2nd Generation",
+        "status" : "active"
     },
     {
         "name": "Ookami Mio",
@@ -117,7 +131,8 @@
         "fanbaseName": "Mio-fa",
         "illustrator": "Izumi Aya",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/786008_938019_ljNAQTV1dYf.webp",
-        "Generation": "hololive GAMERS"
+        "Generation": "hololive GAMERS",
+        "status" : "active"
     },
     {
         "name": "Inugami Korone",
@@ -125,7 +140,8 @@
         "fanbaseName": "Koronesuki",
         "illustrator": "Fukahire",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/305905_549251_kah8jc9Ow8.webp",
-        "Generation": "hololive GAMERS"
+        "Generation": "hololive GAMERS",
+        "status" : "active"
     },
     {
         "name": "Shiranui Flare",
@@ -133,7 +149,8 @@
         "fanbaseName": "Elfriend",
         "illustrator": "lack",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/407211_40550_NdEsUWd1j6.webp",
-        "Generation": "3rd Generation"
+        "Generation": "3rd Generation",
+        "status" : "active"
     },
     {
         "name": "Shirogane Noel",
@@ -141,7 +158,8 @@
         "fanbaseName": "Order of Shirogane",
         "illustrator": "Watao",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/245800_900365_INvG7L_Jz2.webp",
-        "Generation": "3rd Generation"
+        "Generation": "3rd Generation",
+        "status" : "active"
     },
     {
         "name": "Houshou Marine",
@@ -149,7 +167,8 @@
         "fanbaseName": "Houshou no Ichimi",
         "illustrator": "Akasa Ai",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/363888_28473_ym7DRT-zNE_.webp",
-        "Generation": "3rd Generation"
+        "Generation": "3rd Generation",
+        "status" : "active"
     },
     {
         "name": "Usada Pekora",
@@ -157,7 +176,8 @@
         "fanbaseName": "League of the Hare Alliance",
         "illustrator": "Yuuki Hagure",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/231089_544274_PbgxRZ_o4B.webp",
-        "Generation": "3rd Generation"
+        "Generation": "3rd Generation",
+        "status" : "active"
     },
     {
         "name": "Uruha Rushia",
@@ -165,7 +185,8 @@
         "fanbaseName": "Fandead",
         "illustrator": "Yasuyuki",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/975809_103938_0o3WfUocVv.webp",
-        "Generation": "3rd Generation"
+        "Generation": "3rd Generation",
+        "status" : "active"
     },
     {
         "name": "Hoshimachi Suisei",
@@ -173,7 +194,8 @@
         "fanbaseName": "Stargazers",
         "illustrator": "Teshima Nari",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/718827_142512_gdj2ct-Ec.webp",
-        "Generation": "Generation 0"
+        "Generation": "Generation 0",
+        "status" : "active"
     },
     {
         "name": "Amane Kanata",
@@ -181,7 +203,8 @@
         "fanbaseName": "Hey-min",
         "illustrator": "oshioshio",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/556410_6694_ikb5AOnTes.webp",
-        "Generation": "4th Generation"
+        "Generation": "4th Generation",
+        "status" : "active"
     },
     {
         "name": "Tsunomaki Watame",
@@ -189,7 +212,8 @@
         "fanbaseName": "Wata-mate",
         "illustrator": "Fu-mi",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/27981_786637_f8E3vyaMH.webp",
-        "Generation": "4th Generation"
+        "Generation": "4th Generation",
+        "status" : "active"
     },
     {
         "name": "Tokoyami Towa",
@@ -197,7 +221,8 @@
         "fanbaseName": "Kin of Tokoyami",
         "illustrator": "rurudo",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/598440_903513__1__nDoDkrBYwKY.webp",
-        "Generation": "4th Generation"
+        "Generation": "4th Generation",
+        "status" : "active"
     },
     {
         "name": "Yukihana Lamy",
@@ -205,7 +230,8 @@
         "fanbaseName": "-",
         "illustrator": "Rin☆Yuu",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/699004_119922_fvYQvy5Kt_.webp",
-        "Generation": "5th Generation"
+        "Generation": "5th Generation",
+        "status" : "active"
     },
     {
         "name": "Momosuzu Nene",
@@ -213,6 +239,7 @@
         "fanbaseName": "-",
         "illustrator": "Nishizawa 5mm",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/337781_721378_cvCFQDnUajN.webp",
-        "Generation": "5th Generation"
+        "Generation": "5th Generation",
+        "status" : "active"
     }
 ]
