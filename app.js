@@ -58,7 +58,7 @@ io.on("connection", async (socket) => {
 });
 
 server.listen(8081, () => {
-    console.log("listening on *:8412");
+    console.log("listening on 8081");
 });
 
 app.listen(port, () => {
