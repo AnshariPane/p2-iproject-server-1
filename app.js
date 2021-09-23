@@ -56,9 +56,9 @@ io.on("connection", async (socket) => {
         }
     });
 });
-const portHeroku = "https://my-vtuberlist.herokuapp.com/"
-server.listen(portHeroku, () => {
-    console.log("listening on https://my-vtuberlist.herokuapp.com/");
+
+server.listen(8081, () => {
+    console.log("listening on 8081");
 });
 
 app.listen(port, () => {
