@@ -58,7 +58,7 @@ _Response (200)_
     {
         "id": 4,
         "name": "Sakura Miko",
-        "about": "\"Nya-hello! It's Sakura Miko!\"",
+        "about": "Nya-hello! It's Sakura Miko!",
         "fanbaseName": "35p",
         "illustrator": "kuromaru9",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/539178_681604_QTCPZKKrf7h.webp",
@@ -109,7 +109,7 @@ _Response (200)_
 {
     "id": 23,
     "name": "Hoshimachi Suisei",
-    "about": "\"It's your shooting star, your diamond in the rough, idol VTuber Hoshimachi Suisei!\"\n\nA forever18 VTuber who deeply loves singing and idols.\nHer dream is to one day hold a live concert in Tokyo Budokan.",
+    "about": "It's your shooting star, your diamond in the rough, idol VTuber Hoshimachi Suisei! A forever18 VTuber who deeply loves singing and idols. Her dream is to one day hold a live concert in Tokyo Budokan.",
     "fanbaseName": "Stargazers",
     "illustrator": "Teshima Nari",
     "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/718827_142512_gdj2ct-Ec.webp"
@@ -124,7 +124,7 @@ _Response (404 - Not Found)_
 }
 ```
 
-### GET /characters
+### GET /characters/filtered
 
 > Get all assets
 
@@ -153,7 +153,7 @@ _Response (200)_
     {
         "id": 1,
         "name": "Tokino Sora",
-        "about": "Debuting on September 7, 2017, she is the first Virtual Idol of Hololive Production.\nShe loves singing and horror games, and her dream has been to “hold a live concert at Yokohama Arena” since the very beginning.",
+        "about": "Debuting on September 7, 2017, she is the first Virtual Idol of Hololive Production. She loves singing and horror games, and her dream has been to “hold a live concert at Yokohama Arena” since the very beginning.",
         "fanbaseName": "Sora-tomo",
         "illustrator": "ordan",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/766395_704791_LtgiASHYk.webp",
@@ -171,7 +171,7 @@ _Response (200)_
     {
         "id": 3,
         "name": "Robocosan",
-        "about": "A lonely, wimpy robot from a random wasteland.\nShe is now hoping to contact and live with lots of people as a Virtual Liver.",
+        "about": "A lonely, wimpy robot from a random wasteland. She is now hoping to contact and live with lots of people as a Virtual Liver.",
         "fanbaseName": "Robosa",
         "illustrator": "kuromaru9",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/133704_17353_v5HzB875SL.webp",
@@ -180,7 +180,7 @@ _Response (200)_
     {
         "id": 4,
         "name": "Sakura Miko",
-        "about": "\"Nya-hello! It's Sakura Miko!\"",
+        "about": ""Nya-hello! It's Sakura Miko!"",
         "fanbaseName": "35p",
         "illustrator": "kuromaru9",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/539178_681604_QTCPZKKrf7h.webp",
