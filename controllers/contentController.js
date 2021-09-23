@@ -1,5 +1,6 @@
 const { Character } = require("../models");
 const { google } = require("googleapis");
+const { Op } = require("sequelize");
 
 class ContentController {
     static async addCharaForAdmin(req, res, next) {
@@ -60,7 +61,32 @@ class ContentController {
             });
             res.status(200).json(response.data.items);
         } catch (error) {
-            console.log(error,"````````")
+            next(error);
+        }
+    }
+
+    static async filteredContents(req, res, next) {
+        const generation = req.query.Generation || null;
+        try {
+            const payload = {
+                status: {
+                    [Op.not]: ["archived", "inactive"],
+                },
+            };
+            if (generation) {
+                payload.Generation = {
+                    [Op.iLike]: `%${generation}%`,
+                };
+            }
+            const result = await Character.findAll({
+                where: payload,
+                attributes: {
+                    include: ["Generation"],
+                    exclude: ["createdAt", "updatedAt"],
+                },
+            });
+            res.status(200).json(result);
+        } catch (error) {
             next(error);
         }
     }
