@@ -19,7 +19,7 @@ app.use(router);
 const server = http.createServer(app);
 const io = new Server(server, {
     cors: {
-        origin: "http://localhost:8080",
+        origin: "https://myvtuberlist-f0b27.web.app/",
         allowedHeaders: ["MY-CUSTOM-HEADERS"],
         credentials: true,
         methods: ["GET", "POST"],
@@ -56,9 +56,9 @@ io.on("connection", async (socket) => {
         }
     });
 });
-
-server.listen(8081, () => {
-    console.log("listening on 8081");
+const portHeroku = "https://my-vtuberlist.herokuapp.com/"
+server.listen(portHeroku, () => {
+    console.log("listening on https://my-vtuberlist.herokuapp.com/");
 });
 
 app.listen(port, () => {
