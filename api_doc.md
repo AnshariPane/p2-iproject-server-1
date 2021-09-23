@@ -34,7 +34,8 @@ _Response (200)_
         "about": "Debuting on September 7, 2017, she is the first Virtual Idol of Hololive Production.\nShe loves singing and horror games, and her dream has been to “hold a live concert at Yokohama Arena” since the very beginning.",
         "fanbaseName": "Sora-tomo",
         "illustrator": "ordan",
-        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/766395_704791_LtgiASHYk.webp"
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/766395_704791_LtgiASHYk.webp",
+        "Generation": "Generation 0"
     },
     {
         "id": 2,
@@ -42,7 +43,8 @@ _Response (200)_
         "about": "A diva who became reborn into the virtual world in order to fabricate a new world.",
         "fanbaseName": "Pioneer",
         "illustrator": "kasokuSato",
-        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/922356_129433_IfNr65KjunL.webp"
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/922356_129433_IfNr65KjunL.webp",
+        "Generation": "Generation 0"
     },
     {
         "id": 3,
@@ -50,7 +52,8 @@ _Response (200)_
         "about": "A lonely, wimpy robot from a random wasteland.\nShe is now hoping to contact and live with lots of people as a Virtual Liver.",
         "fanbaseName": "Robosa",
         "illustrator": "kuromaru9",
-        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/133704_17353_v5HzB875SL.webp"
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/133704_17353_v5HzB875SL.webp",
+        "Generation": "Generation 0"
     },
     {
         "id": 4,
@@ -58,7 +61,8 @@ _Response (200)_
         "about": "\"Nya-hello! It's Sakura Miko!\"",
         "fanbaseName": "35p",
         "illustrator": "kuromaru9",
-        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/539178_681604_QTCPZKKrf7h.webp"
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/539178_681604_QTCPZKKrf7h.webp",
+        "Generation": "Generation 0"
     },
     {
         "id": 5,
@@ -66,7 +70,8 @@ _Response (200)_
         "about": "A white haired kemomimi (animal-eared) highschool student.",
         "fanbaseName": "Sukon-bu",
         "illustrator": "Nagishiro Mito",
-        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/215939_891350_h2mytN764H.webp"
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/215939_891350_h2mytN764H.webp",
+        "Generation": "1st Generation"
     }
 ]
 ```
@@ -118,6 +123,80 @@ _Response (404 - Not Found)_
     "message": "Data not found"
 }
 ```
+
+### GET /characters
+
+> Get all assets
+
+_Request Headers_
+
+```
+not needed
+```
+
+_Request Body_
+
+```
+not needed
+```
+
+_Request Query_
+
+```
+Generation : <string>
+```
+
+_Response (200)_
+
+```
+[
+    {
+        "id": 1,
+        "name": "Tokino Sora",
+        "about": "Debuting on September 7, 2017, she is the first Virtual Idol of Hololive Production.\nShe loves singing and horror games, and her dream has been to “hold a live concert at Yokohama Arena” since the very beginning.",
+        "fanbaseName": "Sora-tomo",
+        "illustrator": "ordan",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/766395_704791_LtgiASHYk.webp",
+        "Generation": "Generation 0"
+    },
+    {
+        "id": 2,
+        "name": "AZKi",
+        "about": "A diva who became reborn into the virtual world in order to fabricate a new world.",
+        "fanbaseName": "Pioneer",
+        "illustrator": "kasokuSato",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/922356_129433_IfNr65KjunL.webp",
+        "Generation": "Generation 0"
+    },
+    {
+        "id": 3,
+        "name": "Robocosan",
+        "about": "A lonely, wimpy robot from a random wasteland.\nShe is now hoping to contact and live with lots of people as a Virtual Liver.",
+        "fanbaseName": "Robosa",
+        "illustrator": "kuromaru9",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/133704_17353_v5HzB875SL.webp",
+        "Generation": "Generation 0"
+    },
+    {
+        "id": 4,
+        "name": "Sakura Miko",
+        "about": "\"Nya-hello! It's Sakura Miko!\"",
+        "fanbaseName": "35p",
+        "illustrator": "kuromaru9",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/539178_681604_QTCPZKKrf7h.webp",
+        "Generation": "Generation 0"
+    },
+]
+```
+_Response (500 - Internal Server Error)_
+
+```
+{
+  "message": "Internal Server Error"
+}
+```
+
+---
 
 ### POST /register
 
