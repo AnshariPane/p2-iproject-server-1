@@ -49,7 +49,7 @@ _Response (200)_
     {
         "id": 3,
         "name": "Robocosan",
-        "about": "A lonely, wimpy robot from a random wasteland.\nShe is now hoping to contact and live with lots of people as a Virtual Liver.",
+        "about": "A lonely, wimpy robot from a random wasteland. She is now hoping to contact and live with lots of people as a Virtual Liver.",
         "fanbaseName": "Robosa",
         "illustrator": "kuromaru9",
         "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/133704_17353_v5HzB875SL.webp",
