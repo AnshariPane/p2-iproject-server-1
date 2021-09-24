@@ -1,0 +1,245 @@
+[
+    {
+        "name": "Tokino Sora",
+        "about": "Debuting on September 7, 2017, she is the first Virtual Idol of Hololive Production. She loves singing and horror games, and her dream has been to “hold a live concert at Yokohama Arena” since the very beginning.",
+        "fanbaseName": "Sora-tomo",
+        "illustrator": "ordan",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/766395_704791_LtgiASHYk.webp",
+        "Generation": "Generation 0",
+        "status" : "active"
+    },
+    {
+        "name": "AZKi",
+        "about": "A diva who became reborn into the virtual world in order to fabricate a new world.",
+        "fanbaseName": "Pioneer",
+        "illustrator": "kasokuSato",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/922356_129433_IfNr65KjunL.webp",
+        "Generation": "Generation 0",
+        "status" : "active"
+    },
+    {
+        "name": "Robocosan",
+        "about": "A lonely, wimpy robot from a random wasteland. She is now hoping to contact and live with lots of people as a Virtual Liver.",
+        "fanbaseName": "Robosa",
+        "illustrator": "kuromaru9",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/133704_17353_v5HzB875SL.webp",
+        "Generation": "Generation 0",
+        "status" : "active"
+    },
+    {
+        "name": "Sakura Miko",
+        "about": "Nya-hello! It's Sakura Miko!",
+        "fanbaseName": "35p",
+        "illustrator": "kuromaru9",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/539178_681604_QTCPZKKrf7h.webp",
+        "Generation": "Generation 0",
+        "status" : "active"
+    },
+    {
+        "name": "Shirakami Fubuki",
+        "about": "A white haired kemomimi (animal-eared) highschool student.",
+        "fanbaseName": "Sukon-bu",
+        "illustrator": "Nagishiro Mito",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/215939_891350_h2mytN764H.webp",
+        "Generation": "1st Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Natsuiro Matsuri",
+        "about": "A rookie on the Cheerleading Team. Cheerful and affectionate, her pleasant attitude means she gets along with everyone.",
+        "fanbaseName": "Matsurisu",
+        "illustrator": "Minamura Haruki",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/878672_482782_D-4tPQtj40.webp",
+        "Generation": "1st Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Yozora Mel",
+        "about": "A vampire girl. Even though she is a vampire, she is not into blood. She loves acerola juice quite a lot.",
+        "fanbaseName": "Kapu-min",
+        "illustrator": "Ayami",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/385807_400141_aFeNXavku.webp",
+        "Generation": "1st Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Akai Haato",
+        "about": "A sassy kouhai. She is often prickly, however she manages to demand lots of attention from those with whom she has been getting along well.",
+        "fanbaseName": "Haaton",
+        "illustrator": "HaruYuki",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/970398_960056_OVrisvewgg.webp",
+        "Generation": "1st Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Aki Rosenthal",
+        "about": "A girl who traveled from a different universe. She has hyper curiosity and manages to reach out to all sorts of things.",
+        "fanbaseName": "Squad Rose",
+        "illustrator": "Azumi Akitake",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/754557_771352_oecHDcI6kE.webp",
+        "Generation": "1st Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Minato Aqua",
+        "about": "A marine maid-styled virtual maid. She is trying her very best, yet is still sometimes awkward and clumsy.",
+        "fanbaseName": "Aqua Crew",
+        "illustrator": "Gaou",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/309110_49678_8mQ6udYxWoO.webp",
+        "Generation": "2nd Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Yuzuki Choco",
+        "about": "A health doctor from the Demonic-Realm Academy. Has a high reputation around the school. ",
+        "fanbaseName": "Choco Mate",
+        "illustrator": "Masuishi Kinoto",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/945730_248174_IoJaCLJiY.webp",
+        "Generation": "2nd Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Nakiri Ayame",
+        "about": "A kimono-clad Oni girl from the Demonic-Realm Academy. As she loves to prank people, she always uses will-o’-the-wisp on them just to have fun.",
+        "fanbaseName": "Nakiri-gumi",
+        "illustrator": "NanaKagura",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/808112_469591_01Rchml6rs.webp",
+        "Generation": "2nd Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Murasaki Shion",
+        "about": "A random self-proclaimed child (though she is probably an adult) who appears around the Demonic-Realm Academy. ",
+        "fanbaseName": "Shiokko",
+        "illustrator": "Tam-U",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/39481_966765_QhUYtdy0U9.webp",
+        "Generation": "2nd Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Oozora Subaru",
+        "about": "The manager of an MMA club and an E-sports club. A supremely spirited, cheerful, lively girl who can talk to anyone without breaking a sweat.",
+        "fanbaseName": "Suba-tomo",
+        "illustrator": "Shigureui",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/148699_403604_L8cDGNnA5W.webp",
+        "Generation": "2nd Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Ookami Mio",
+        "about": "A black haired kemomimi girl who appeared on our radar randomly. She often shows up around shrines. She likes gaming.",
+        "fanbaseName": "Mio-fa",
+        "illustrator": "Izumi Aya",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/786008_938019_ljNAQTV1dYf.webp",
+        "Generation": "hololive GAMERS",
+        "status" : "active"
+    },
+    {
+        "name": "Inugami Korone",
+        "about": "The dog from a random bakery. She likes to play games when she has free time while watchdogging.",
+        "fanbaseName": "Koronesuki",
+        "illustrator": "Fukahire",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/305905_549251_kah8jc9Ow8.webp",
+        "Generation": "hololive GAMERS",
+        "status" : "active"
+    },
+    {
+        "name": "Shiranui Flare",
+        "about": "A half-elf who seems sloppy and undependable, however when it is time, she becomes an extremely reliable big sis.",
+        "fanbaseName": "Elfriend",
+        "illustrator": "lack",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/407211_40550_NdEsUWd1j6.webp",
+        "Generation": "3rd Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Shirogane Noel",
+        "about": "While she is easy-going, she has a dangerous side where she attempts to solve all her problems with muscle power.",
+        "fanbaseName": "Order of Shirogane",
+        "illustrator": "Watao",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/245800_900365_INvG7L_Jz2.webp",
+        "Generation": "3rd Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Houshou Marine",
+        "about": "Ahoy! Houshou Pirate Captain, Houshou Marine here!",
+        "fanbaseName": "Houshou no Ichimi",
+        "illustrator": "Akasa Ai",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/363888_28473_ym7DRT-zNE_.webp",
+        "Generation": "3rd Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Usada Pekora",
+        "about": "A lonely rabbit-eared girl who loves carrots. She loves them so much that she always brings a few anywhere she goes.",
+        "fanbaseName": "League of the Hare Alliance",
+        "illustrator": "Yuuki Hagure",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/231089_544274_PbgxRZ_o4B.webp",
+        "Generation": "3rd Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Uruha Rushia",
+        "about": "A necromancer from the Demonic-Realm Academy who is not good at communicating with people.",
+        "fanbaseName": "Fandead",
+        "illustrator": "Yasuyuki",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/975809_103938_0o3WfUocVv.webp",
+        "Generation": "3rd Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Hoshimachi Suisei",
+        "about": "It's your shooting star, your diamond in the rough, idol VTuber Hoshimachi Suisei! A forever18 VTuber who deeply loves singing and idols.\nHer dream is to one day hold a live concert in Tokyo Budokan.",
+        "fanbaseName": "Stargazers",
+        "illustrator": "Teshima Nari",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/718827_142512_gdj2ct-Ec.webp",
+        "Generation": "Generation 0",
+        "status" : "active"
+    },
+    {
+        "name": "Amane Kanata",
+        "about": "An angel from the Angelic-Realm Institution. She is now studying how to heal people. To hide her shyness, she pretends to be cool.",
+        "fanbaseName": "Hey-min",
+        "illustrator": "oshioshio",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/556410_6694_ikb5AOnTes.webp",
+        "Generation": "4th Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Tsunomaki Watame",
+        "about": "A sheep bard that goes around everywhere. She loves singing and is fluffy! YES! FLUFFY! Being a herbivore, she loves potato chips.",
+        "fanbaseName": "Wata-mate",
+        "illustrator": "Fu-mi",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/27981_786637_f8E3vyaMH.webp",
+        "Generation": "4th Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Tokoyami Towa",
+        "about": "In order to become an archdemon, she joined the human society for further studies.",
+        "fanbaseName": "Kin of Tokoyami",
+        "illustrator": "rurudo",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/598440_903513__1__nDoDkrBYwKY.webp",
+        "Generation": "4th Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Yukihana Lamy",
+        "about": "A snow elf from a noble family renowned in the remote Land of Silver.",
+        "fanbaseName": "-",
+        "illustrator": "Rin☆Yuu",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/699004_119922_fvYQvy5Kt_.webp",
+        "Generation": "5th Generation",
+        "status" : "active"
+    },
+    {
+        "name": "Momosuzu Nene",
+        "about": "A girl who came from another world to chase after her idol dream. She likes singing, dancing, and drawing. ",
+        "fanbaseName": "-",
+        "illustrator": "Nishizawa 5mm",
+        "imageUrl": "https://ik.imagekit.io/ky5x0wdtudi/337781_721378_cvCFQDnUajN.webp",
+        "Generation": "5th Generation",
+        "status" : "active"
+    }
+]
